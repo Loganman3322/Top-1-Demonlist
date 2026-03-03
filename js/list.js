@@ -4,7 +4,7 @@
     {
       vids: [
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=vf87NTxeHNI",
           percent: 100,
           hz: "360hz",
@@ -117,7 +117,7 @@
     {
       vids: [
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=ike2xhgaaU0",
           percent: 100,
           hz: "360hz",
@@ -178,7 +178,7 @@
           hz: "360hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/So4jwHGIjDk",
           percent: 100,
           hz: "288hz",
@@ -212,7 +212,7 @@
           hz: "144hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=RK5WomaCCoY",
           percent: 100,
           hz: "288hz",
@@ -286,7 +286,7 @@
     {
       vids: [
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=wIWgieEreuE",
           percent: 100,
           hz: "288hz",
@@ -332,7 +332,7 @@
           hz: "240hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://youtu.be/yhLqDAeBizk",
           percent: 100,
           hz: "360hz",
@@ -371,8 +371,18 @@
        /*=============================================================================*/
     {
       vids: [
+      ],
+      name: "Shitty Garfield Copter",
+      author: "Ludwig [litdude]",
+      id: 87396926,
+      percentToQualify: 100,
+      verificationVid: "https://youtu.be/yznBZ3-GQdc",
+    },
+       /*=============================================================================*/
+    {
+      vids: [
         {
-          user: "toon",
+          user: "litdude",
           link: "https://youtu.be/yhLqDAeBizk",
           percent: 100,
           hz: "360hz",
@@ -496,7 +506,7 @@
           hz: "180hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=t0vubch5rN0",
           percent: 100,
           hz: "360hz",
@@ -542,7 +552,7 @@
     {
       vids: [
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=2MDjjfmwm8Q",
           percent: 100,
           hz: "360hz",
@@ -718,7 +728,7 @@
           hz: "180hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=wIWgieEreuE",
           percent: 100,
           hz: "288hz",
@@ -777,7 +787,7 @@
           hz: "360hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://cdn.discordapp.com/attachments/944699619739328623/995548298888892486/Geometry_Dash_2022.07.10_-_00.31.04.06.DVR_Trim.mp4",
           percent: 100,
           hz: "360hz",
@@ -904,7 +914,7 @@
           hz: "360hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/XIo4ZSs7Cpg",
           percent: 100,
           hz: "288hz",
@@ -1002,7 +1012,7 @@
           hz: "144hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=wIWgieEreuE",
           percent: 100,
           hz: "288hz",
@@ -1216,7 +1226,7 @@
     {
       vids: [
         {
-          user: "toon",
+          user: "litdude",
           link: "https://cdn.discordapp.com/attachments/944699619739328623/995537363809874061/Geometry_Dash_2022.07.09_-_23.43.24.05.DVR_Trim.mp4",
           percent: 100,
           hz: "360hz",
@@ -1400,7 +1410,7 @@
           hz: "120hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://youtu.be/yhLqDAeBizk",
           percent: "100",
           hz: "360hz",
@@ -1774,7 +1784,7 @@
           hz: "144hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://cdn.discordapp.com/attachments/944699619739328623/995551771831324733/Geometry_Dash_2022.07.10_-_00.46.09.08.DVR_Trim.mp4",
           percent: 100,
           hz: "360hz",
@@ -1950,7 +1960,7 @@
           hz: "144hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=wIWgieEreuE",
           percent: 100,
           hz: "288hz",
@@ -2312,7 +2322,7 @@
         },
       ],
       name: "Shitty Cooks",
-      author: "toon [toon]",
+      author: "litdude [litdude]",
       id: 102182487,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=jDUH2Sn-iR0",
@@ -2387,7 +2397,7 @@
           hz: "360hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/uq2KCPaOPHg",
           percent: 100,
           hz: "288hz",
@@ -2862,7 +2872,7 @@
           hz: "360hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=wIWgieEreuE",
           percent: 100,
           hz: "288hz",
@@ -3020,7 +3030,7 @@
     {
       vids: [
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=Z-MXeV62LxE",
           percent: 100,
           hz: "360hz",
@@ -3273,7 +3283,7 @@
         },
       ],
       name: "Shitty Serenity",
-      author: "noots [toon]",
+      author: "noots [litdude]",
       id: 89609760,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=omZzmnfyoUQ",
@@ -3340,7 +3350,7 @@
     {
       vids: [
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=jhPh490Rl2s",
           percent: 100,
           hz: "360hz",
@@ -3441,7 +3451,7 @@
         },
       ],
       name: "Shitty Personal Challenge X",
-      author: "toon",
+      author: "litdude",
       id: 81809629,
       percentToQualify: 100,
       verificationVid: "https://youtu.be/8PH8MFFCyAk",
@@ -3538,7 +3548,7 @@
           hz: "144hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=iIBUSJuVpdk",
           percent: 100,
           hz: "360hz",
@@ -3790,7 +3800,7 @@
     {
       vids: [
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=hw_4YJB6KUs",
           percent: 100,
           hz: "360hz",
@@ -4328,7 +4338,7 @@
           hz: "144hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=6h_Dehc58tU",
           percent: 100,
           hz: "360hz",
@@ -4779,7 +4789,7 @@
           hz: "360hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/usvyX45VcsI",
           percent: 100,
           hz: "288hz",
@@ -4945,7 +4955,7 @@
           hz: "240hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/usvyX45VcsI",
           percent: 100,
           hz: "288hz",
@@ -5265,7 +5275,7 @@
           hz: "144hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/usvyX45VcsI",
           percent: 100,
           hz: "288hz",
@@ -5377,13 +5387,13 @@
           hz: "360hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/usvyX45VcsI",
           percent: 100,
           hz: "288hz",
         },
 {
-          user: "Toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=Ow7TLdIHGXA",
           percent: 100,
           hz: "360hz",
@@ -5525,7 +5535,7 @@
           hz: "240hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/usvyX45VcsI",
           percent: 100,
           hz: "288hz",
@@ -5740,7 +5750,7 @@
           hz: "240hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/usvyX45VcsI",
           percent: 100,
           hz: "288hz",
@@ -5936,7 +5946,7 @@
           hz: "360hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=wIWgieEreuE",
           percent: 100,
           hz: "288hz",
@@ -6162,7 +6172,7 @@
           hz: "240hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/usvyX45VcsI",
           percent: 100,
           hz: "288hz",
@@ -6310,7 +6320,7 @@
           hz: "240hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=PYijP_VRRYQ",
           percent: 100,
           hz: "360hz",
@@ -6566,7 +6576,7 @@
           hz: "180hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/usvyX45VcsI",
           percent: 100,
           hz: "288hz",
@@ -6625,7 +6635,7 @@
           hz: "180hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/usvyX45VcsI",
           percent: 100,
           hz: "288hz",
@@ -6702,7 +6712,7 @@
           hz: "180hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=wIWgieEreuE",
           percent: 100,
           hz: "288hz",
@@ -6898,7 +6908,7 @@
           hz: "240hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/usvyX45VcsI",
           percent: 100,
           hz: "288hz",
@@ -7113,7 +7123,7 @@
           hz: "240hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=wIWgieEreuE",
           percent: 100,
           hz: "288hz",
@@ -7369,7 +7379,7 @@
           hz: "240hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/usvyX45VcsI",
           percent: 100,
           hz: "288hz",
@@ -7451,7 +7461,7 @@
           hz: "240hz",
         },
         {
-          user: "Toon",
+          user: "litdude",
           link: "https://youtu.be/usvyX45VcsI",
           percent: 100,
           hz: "288hz",
@@ -7781,7 +7791,7 @@
           hz: "240hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://www.youtube.com/watch?v=ZIO3kqZW2_A",
           percent: 100,
           hz: "360hz",
@@ -9055,7 +9065,7 @@
           hz: "360hz",
         },
         {
-          user: "toon",
+          user: "litdude",
           link: "https://youtu.be/yhLqDAeBizk",
           percent: "100",
           hz: "360hz",
