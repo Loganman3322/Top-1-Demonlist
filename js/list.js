@@ -11,7 +11,7 @@
         },
       ],
       name: "Society",
-      author: "wPopoff [Neomarbilan]",
+      author: "Neomarbilan [wPopoff]",
       id: 81835814,
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=3CoEaH1CM7o",
